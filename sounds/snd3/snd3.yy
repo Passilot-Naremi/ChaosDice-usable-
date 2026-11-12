@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.4469841,
+  "exportDir":"",
+  "name":"snd3",
+  "parent":{
+    "name":"numbers",
+    "path":"folders/Sounds/numbers.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd3.wav",
+  "volume":1.0,
+}
