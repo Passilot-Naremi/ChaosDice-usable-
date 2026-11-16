@@ -53,6 +53,7 @@
     {"id":{"name":"oArleMommy_Inactive","path":"objects/oArleMommy_Inactive/oArleMommy_Inactive.yy",},},
     {"id":{"name":"oArleMommy","path":"objects/oArleMommy/oArleMommy.yy",},},
     {"id":{"name":"oBeginGamba","path":"objects/oBeginGamba/oBeginGamba.yy",},},
+    {"id":{"name":"oBtn","path":"objects/oBtn/oBtn.yy",},},
     {"id":{"name":"oCaramell1_Inactive","path":"objects/oCaramell1_Inactive/oCaramell1_Inactive.yy",},},
     {"id":{"name":"oCaramell1","path":"objects/oCaramell1/oCaramell1.yy",},},
     {"id":{"name":"oCaramell2_Inactive","path":"objects/oCaramell2_Inactive/oCaramell2_Inactive.yy",},},
@@ -76,6 +77,7 @@
     {"id":{"name":"rmAlmanac","path":"rooms/rmAlmanac/rmAlmanac.yy",},},
     {"id":{"name":"rmGambaRoom","path":"rooms/rmGambaRoom/rmGambaRoom.yy",},},
     {"id":{"name":"rmMainMenu","path":"rooms/rmMainMenu/rmMainMenu.yy",},},
+    {"id":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},},
     {"id":{"name":"rmTitle","path":"rooms/rmTitle/rmTitle.yy",},},
     {"id":{"name":"coinShower","path":"scripts/coinShower/coinShower.yy",},},
     {"id":{"name":"scrFadeOut","path":"scripts/scrFadeOut/scrFadeOut.yy",},},
@@ -121,6 +123,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},},
     {"roomId":{"name":"rmTitle","path":"rooms/rmTitle/rmTitle.yy",},},
     {"roomId":{"name":"rmMainMenu","path":"rooms/rmMainMenu/rmMainMenu.yy",},},
     {"roomId":{"name":"rmGambaRoom","path":"rooms/rmGambaRoom/rmGambaRoom.yy",},},
