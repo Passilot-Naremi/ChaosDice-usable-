@@ -10,6 +10,7 @@ prohibited = 0
 surge = 0
 bleed = 0
 regen = 0
+risk = 0
 
 itemSeek = 0;
 inventory[0] = pointer_null;
